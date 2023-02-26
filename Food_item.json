@@ -1,0 +1,37 @@
+{
+    "901": {
+        "food_name": "maggie",
+        "Quentity": "1",
+        "Price": 100,
+        "Discount": 10,
+        "Stock": 9
+    },
+    "487": {
+        "food_name": "pasta",
+        "Quentity": "2",
+        "Price": 100,
+        "Discount": 20,
+        "Stock": 5
+    },
+    "469": {
+        "food_name": "curd",
+        "Quentity": "4gm",
+        "Price": 45,
+        "Discount": 10,
+        "Stock": 5
+    },
+    "387": {
+        "food_name": "paneer",
+        "Quentity": "5",
+        "Price": 200,
+        "Discount": 10,
+        "Stock": 5
+    },
+    "246": {
+        "food_name": "mutton",
+        "Quentity": "10",
+        "Price": 250,
+        "Discount": 10,
+        "Stock": 5
+    }
+}
